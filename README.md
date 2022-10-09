@@ -32,10 +32,10 @@
 
 <br>
 
-<a href="https://www.adamalston.com/"><img align = "centre" height="200px" src="https://github-readme-stats.vercel.app/api?username=souraOP&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="souraOP"/>
+<a href="https://www.adamalston.com/"><img align = "centre" width=100% src="https://github-readme-stats.vercel.app/api?username=souraOP&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="souraOP"/>
 <br>
-<img align = "center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souraOP&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souraOP&" alt="souraOP"/></p>
+<img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=souraOP&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=souraOP&" alt="souraOP"/></a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souraOP&theme=merko)](https://github.com/souraOP/github-readme-activity-graph)
 
 
 
@@ -58,4 +58,4 @@
 
 -----
 
-Last Edited on: 04/10/2022
+Last Edited on: 09/10/2022
