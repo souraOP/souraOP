@@ -6,7 +6,7 @@
 <a href="https://github.com/souraOP"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraOP&label=Profile%20views&color=0e75b6&style=flat" alt="over-thinker" /> </p>
 
-- 🎓 I'm currently a student pursuing **Computer Science And Engineering**.
+- 🎓 I'm currently a student pursuing **B.Tech in Computer Science And Engineering**.
 
 - 💻 I’m currently working on **personal projects**.
 
@@ -58,4 +58,4 @@
 
 -----
 
-Last Edited on: 09/10/2022
+Last Edited on: 20/10/2022
