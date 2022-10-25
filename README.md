@@ -37,7 +37,7 @@
 <img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=souraOP&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=souraOP&" alt="souraOP"/></a>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souraOP&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 
 
 <h2 align="left">Connect with me:</h3>
