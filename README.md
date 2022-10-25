@@ -38,7 +38,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souraOP&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-
+<div align = 'center'><img src = "https://raw.githubusercontent.com/souraOP/souraOP/17499a9e7562e6fc1d5cc0ff765b9f1b70e7aed6/asset/footer.png" /></div><div align = "center"><img height="100" src="https://raw.githubusercontent.com/souraOP/souraOP/main/asset/footerimage.png" /></div>
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,4 +58,4 @@
 
 -----
 
-Last Edited on: 20/10/2022
+Last Edited on: 25/10/2022
