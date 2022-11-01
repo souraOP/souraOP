@@ -12,7 +12,7 @@
 
 - ⭐ 2022's Objective: Contribute more to **Open-Source** and get an **Internship** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- ⚡ I love playing guitar, video games, machine learning and programming 
+- ⚡ I love playing guitar, video games, love to travel, machine learning and programming 
 
 
 <h2 align = "left">Languages and Tools</h2>
