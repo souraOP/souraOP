@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/agnibhu-1902/agnibhu-1902/blob/main/allureofthestars.gif)](https://hackage.haskell.org/package/Allure)
+<img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" style ="hight:100px;" alt="">
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sourasish-mondal-20bb10203/" target="_blank" rel="noopener noreferrer">Sourasish Mondal</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
