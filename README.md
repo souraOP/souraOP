@@ -36,6 +36,8 @@
 <br>
 <img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=souraOP&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=souraOP&" alt="souraOP"/></a>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=souraOP&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![tropht stats](https://github-profile-trophy.vercel.app/?username=souraOP)
+<p align="center">
 
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 <div align = 'center'><img src = "https://raw.githubusercontent.com/souraOP/souraOP/17499a9e7562e6fc1d5cc0ff765b9f1b70e7aed6/asset/footer.png" /></div><div align = "center"><img height="100" src="https://raw.githubusercontent.com/souraOP/souraOP/main/asset/footerimage.png" /></div>
