@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sourasish-mondal-20bb10203/" target="_blank" rel="noopener noreferrer">Sourasish Mondal</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-<h2 align="center">A passionate Machine Learning Engineer and a Front End Developer from India ❤️</h3>
+<h2 align="center">A passionate Machine Learning Engineer and a Front End Developer from India ❤️</h1>
 <a href="https://github.com/souraOP"><img align="right" alt="Nyan Coding" width="350" src="https://github.com/agnibhu-1902/agnibhu-1902/blob/main/bongo_cat.gif" /></a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraOP&label=Profile%20views&color=0e75b6&style=flat" alt="souraOP" /> </p>
 
