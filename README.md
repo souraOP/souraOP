@@ -21,14 +21,14 @@
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="35"/> </a>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="35"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/kubernetes.svg"></code>
+  <code><img height="35" src="https://raw.githubusercontent.com/souraOP/souraOP/main/asset/googlecloud-original.svg" alt="gcloud"></code>
 </p>
 
 <br>
