@@ -1,4 +1,5 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
+<img src="asset/borderseperator.gif"> 
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sourasish-mondal-20bb10203/" target="_blank" rel="noopener noreferrer">Sourasish Mondal</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
@@ -50,6 +51,8 @@
 
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
 <div align = 'center'><img src = "https://raw.githubusercontent.com/souraOP/souraOP/17499a9e7562e6fc1d5cc0ff765b9f1b70e7aed6/asset/footer.png" /></div><div align = "center"><img height="100" src="https://raw.githubusercontent.com/souraOP/souraOP/main/asset/footerimage.png" /></div>
+
+<img src="asset/borderseperator.gif"> 
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
