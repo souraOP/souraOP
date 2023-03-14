@@ -15,7 +15,7 @@
 - ⚡ I love playing guitar, video games, love to travel, machine learning and programming.
 
 
-<h2 align = "left">Languages and Tools</h2>
+<!-- <h2 align = "left">Languages and Tools</h2>
 <p>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
@@ -30,7 +30,14 @@
   <code><img height="35" src="https://github.com/souraOP/souraOP/blob/1868f776e792404ac10bd2d9987b55fa72a9283f/asset/logos/postman-icon.png" alt="postman"></code>
   <code><img height="35" src="https://raw.githubusercontent.com/souraOP/souraOP/main/asset/googlecloud-original.svg" alt="gcloud"></code>
   
-</p>
+</p> -->
+
+<div align="center">
+  <h2> <strong> Actively Learning: </strong></h2>
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,py,bootstrap,gcp,java,c,mysql,postman,express,nodejs" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Willing to learn: </strong></h2>
+  <img src="https://skillicons.dev/icons?i=react,ts,mongodb,flutter,docker,kubernetes,tensorflow,threejs,bash" alt="skills planning to learn logos">
+</div>
 
 <br>
 
