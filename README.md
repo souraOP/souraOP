@@ -7,6 +7,8 @@
 <a href="https://github.com/souraOP"><img align="right" alt="Nyan Coding" width="350" src="https://github.com/agnibhu-1902/agnibhu-1902/blob/main/bongo_cat.gif" /></a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraOP&label=Profile%20views&color=0e75b6&style=flat" alt="souraOP" /> </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a7957da-2ae4-4076-9fbd-fe47415a1a0c/deploy-status)](https://app.netlify.com/sites/iete-isf-nanobiocon/deploys)
+
 - 🎓 I'm currently a student pursuing **B.Tech in Computer Science And Engineering**.
 
 - 💻 I’m currently working on **personal projects**.
@@ -15,23 +17,6 @@
 
 - ⚡ I love playing guitar, video games, love to travel, machine learning and programming.
 
-
-<!-- <h2 align = "left">Languages and Tools</h2>
-<p>
-  <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="35"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg"></code>
-  <code><img height="35" src="https://github.com/souraOP/souraOP/blob/1868f776e792404ac10bd2d9987b55fa72a9283f/asset/logos/postman-icon.png" alt="postman"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/souraOP/souraOP/main/asset/googlecloud-original.svg" alt="gcloud"></code>
-  
-</p> -->
 
 <div align="center">
   <h2> <strong> Actively Learning: </strong></h2>
