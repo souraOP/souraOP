@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sourasish-mondal-20bb10203/" target="_blank" rel="noopener noreferrer">Sourasish Mondal</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-<h2 align="center">A passionate Machine Learning Engineer and a Front End Developer from India ❤️</h1>
+<h2 align="center">A passionate Machine Learning Engineer and a Full Stack Web Developer from India ❤️</h1>
 <a href="https://cloud.appwrite.io/card/64511023125a5b0ebbc4">
 	<img width="350" align="right" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64511023125a5b0ebbc4" alt="Appwrite Cloud Card" />
 </a></h2>
@@ -11,13 +11,13 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a7957da-2ae4-4076-9fbd-fe47415a1a0c/deploy-status)](https://app.netlify.com/sites/iete-isf-nanobiocon/deploys)
 
-- 🎓 I'm currently a student pursuing **B.Tech in Computer Science And Engineering**.
+- 🎓 I'm currently a student pursuing **B. Tech in CSE**.
 
 - 💻 I’m currently working on **personal projects**.
 
-- ⭐ 2022's Objective: Contribute more to **Open-Source** and get an **Internship** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ Currently working as the Technical Head (Webmaster) of **IEEE-BPPIMT**.
 
-- ⚡ I love playing guitar, video games, love to travel, machine learning and programming.
+- ⚡ I love playing guitar, video games, loves to travel, machine learning and programming.
 
 
 <div align="center">
