@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sourasish-mondal-20bb10203/" target="_blank" rel="noopener noreferrer">Sourasish Mondal</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 <h2 align="center">A passionate Machine Learning Engineer and a Front End Developer from India ❤️</h1>
-<a href="https://github.com/souraOP"><img align="right" alt="Nyan Coding" width="350" src="https://github.com/agnibhu-1902/agnibhu-1902/blob/main/bongo_cat.gif" /></a></h2>
+<a href="https://cloud.appwrite.io/card/64511023125a5b0ebbc4">
+	<img width="350" align="right" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64511023125a5b0ebbc4" alt="Appwrite Cloud Card" />
+</a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraOP&label=Profile%20views&color=0e75b6&style=flat" alt="souraOP" /> </p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a7957da-2ae4-4076-9fbd-fe47415a1a0c/deploy-status)](https://app.netlify.com/sites/iete-isf-nanobiocon/deploys)
@@ -33,9 +35,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souraOP)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align = "center" width = 100% src = "https://github-profile-trophy.vercel.app/?username=souraOP">
 <p align="center">
-
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
-<div align = 'center'><img src = "https://raw.githubusercontent.com/souraOP/souraOP/17499a9e7562e6fc1d5cc0ff765b9f1b70e7aed6/asset/footer.png" /></div><div align = "center"><img height="100" src="https://raw.githubusercontent.com/souraOP/souraOP/main/asset/footerimage.png" /></div>
+  
+<a href="https://cloud.appwrite.io/card/64511023125a5b0ebbc4">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64511023125a5b0ebbc4" alt="Appwrite Cloud Card" />
+</a>
 
 <img src="asset/borderseperator.gif"> 
 
