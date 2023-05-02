@@ -35,10 +35,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souraOP)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align = "center" width = 100% src = "https://github-profile-trophy.vercel.app/?username=souraOP">
 <p align="center">
-  
-<a href="https://cloud.appwrite.io/card/64511023125a5b0ebbc4">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64511023125a5b0ebbc4" alt="Appwrite Cloud Card" />
-</a>
 
 <img src="asset/borderseperator.gif"> 
 
