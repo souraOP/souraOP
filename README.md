@@ -37,6 +37,14 @@
   <img alt="Light" src="https://stats.quine.sh/souraOP/github?theme=dark" width="45%" align="left">
   <img alt="Dark" src="https://stats.quine.sh/souraOP/languages-over-time?theme=dark" width="45%" align="right">
 </p>
+
+<div align=center>
+   <a href="https://github.com/souraOP" target="_blank">
+   <img align=center width=100% src="https://github.com/souraOP/souraOP/blob/ce2146e5683dc26837b5d53e00f4787636283296/profile-3d-contrib/profile-night-rainbow.svg" />
+   </a>
+</div>
+
+
 <p align="center">
 
 <img src="asset/borderseperator.gif"> 
