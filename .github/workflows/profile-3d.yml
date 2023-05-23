@@ -1,0 +1,23 @@
+name: Contribution Graph
+on:
+  schedule:
+  - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Main Workflow
+    steps:
+      - uses: actions/checkout@v2
+      - uses:  souraOP/3DContributionGraph@CustomFolderV3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name souraOP
+          git config user.email sourasishmondal95@gmail.com
+          git pull
+          git add -A .
+          git commit -m "Update 3D Graph"
+          git push
