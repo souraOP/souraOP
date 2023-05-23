@@ -9,7 +9,7 @@ jobs:
     name: Main Workflow
     steps:
       - uses: actions/checkout@v2
-      - uses:  souraOP/3DContributionGraph
+      - uses:  souraOP/3DContributionGraph@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
