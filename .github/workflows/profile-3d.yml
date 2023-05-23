@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Main Workflow
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses:  souraOP/3DContributionGraph@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
