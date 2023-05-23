@@ -29,10 +29,26 @@
 
 <br>
 
-<a href="https://souraop.github.io/portfolio-website/"><img align = "centre" width=100% src="https://github-readme-stats.vercel.app/api?username=souraOP&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="souraOP"/>
-<br>
-<img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=souraOP&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=souraOP&" alt="souraOP"/></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=souraOP)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+   <a href="https://github.com/souraOP">
+   <img src="https://github-readme-stats.vercel.app/api?username=souraOP&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
+   </a>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=souraOP&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="souraOP" width=49% height=100%/>
+   <br/>
+   </a>
+</div>
+<div align=center>
+   <a href="https://github.com/Sabyasachi-Seal">
+   <img src="https://github-profile-trophy.vercel.app/?username=souraOP&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
+   </a>
+</div>
+
+<div align=center>
+   <a href="https://github.com/souraOP">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=souraOP&theme=redical&hide_border=true" />
+   </a>
+</div>
 
   <img alt="Light" src="https://stats.quine.sh/souraOP/github?theme=dark" width="45%" align="left">
   <img alt="Dark" src="https://stats.quine.sh/souraOP/languages-over-time?theme=dark" width="45%" align="right">
