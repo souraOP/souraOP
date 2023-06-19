@@ -22,9 +22,9 @@
 
 <div align="center">
   <h2> <strong> Actively Learning: </strong></h2>
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,py,bootstrap,gcp,java,c,mysql,postman,express,nodejs,jquery" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,py,bootstrap,gcp,java,c,mysql,postman,express,nodejs,jquery,mongodb" alt="skills actively learning logos"> <br> 
   <h2> <strong> Willing to learn: </strong></h2>
-  <img src="https://skillicons.dev/icons?i=react,ts,mongodb,flutter,docker,kubernetes,tensorflow,threejs,bash" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=react,ts,flutter,docker,kubernetes,tensorflow,threejs,bash" alt="skills planning to learn logos">
 </div>
 
 <br>
