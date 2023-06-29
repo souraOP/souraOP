@@ -55,6 +55,7 @@
 ![GNU--Bash](https://img.shields.io/badge/GNU%20Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-4EAA25?style=for-the-badge&logo=ejs%20Bash&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br>
 
