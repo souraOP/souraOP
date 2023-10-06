@@ -15,7 +15,7 @@
 
 - 💻 I’m currently working on **personal projects**.
 
-- ⭐ Currently working as the Technical Head (Webmaster) of **IEEE-BPPIMT**.
+- ⭐ Currently working as the Technical Head (Webmaster) of **IEEE-BPPIMT** and **MLSA-BPPIMT**
 
 - ⚡ I love playing guitar, video games, loves to travel, machine learning and programming.
 
