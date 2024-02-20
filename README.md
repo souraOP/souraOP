@@ -71,8 +71,8 @@
 </div>
 
 <div align=center>
-   <a href="https://github.com/souraOP">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=souraOP&theme=redical&hide_border=true" />
+   <a href="https://monkeytype.com/profile/soura_OP">
+   <img alt="Typing Speed" src="https://github.com/souraOP/souraOP/blob/2343ec02506a76288e51b56635bfb15cf8d4a704/asset/typingSpeed.png" />
    </a>
 </div>
 
