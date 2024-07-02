@@ -9,10 +9,6 @@
 
 - 🎓 I'm currently a student pursuing **B. Tech in CSE**.
 
-- 💻 I’m currently working on **personal projects**.
-
-- ⭐ Currently working as the Technical Head (Webmaster) of **IEEE-BPPIMT** and **MLSA-BPPIMT**
-
 - ⚡ I love playing guitar, video games, loves to travel, machine learning and programming.
 
 - ## Workspace Specs:
