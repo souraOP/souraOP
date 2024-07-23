@@ -5,7 +5,9 @@
 </a></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraOP&label=Profile%20views&color=0e75b6&style=flat" alt="souraOP" /> </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a7957da-2ae4-4076-9fbd-fe47415a1a0c/deploy-status)](https://app.netlify.com/sites/iete-isf-nanobiocon/deploys)
+![Discord](https://img.shields.io/discord/802847323893923841?style=plastic&logo=discord&logoColor=white&logoSize=auto&label=Discord%20Server&labelColor=purple&color=abcdef&cacheSeconds=3000&link=https%3A%2F%2Fdiscord.gg%2FdpVy3Z3g2H)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCywTSd0-qY13RasRiM-nv4g?style=social)
+
 
 - 🎓 I'm currently a student pursuing **B. Tech in CSE**.
 
@@ -50,6 +52,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-E44C30?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-brown?style=for-the-badge&logo=keras&logoColor=white)
 
 
 <br>
