@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sourasish-mondal-20bb10203/" target="_blank" rel="noopener noreferrer">Sourasish Mondal</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 <h2 align="center">A passionate Machine Learning Engineer and a Full Stack Web Developer from India ❤️</h1>
 <a href="https://cloud.appwrite.io/card/64511023125a5b0ebbc4">
-	<img width="350" align="right" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64511023125a5b0ebbc4" alt="Appwrite Cloud Card" />
-</a></h2>
+	<img  align=right flex-grow=1 width=360 src="https://leetcard.jacoblin.cool/souraOP?theme=dark&font=Nunito&ext=heatmap" /> 
+</a>
+</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraOP&label=Profile%20views&color=0e75b6&style=flat" alt="souraOP" /> </p>
 
 ![Discord](https://img.shields.io/discord/802847323893923841?style=plastic&logo=discord&logoColor=white&logoSize=auto&label=Discord%20Server&labelColor=purple&color=abcdef&cacheSeconds=3000&link=https%3A%2F%2Fdiscord.gg%2FdpVy3Z3g2H)
@@ -63,6 +64,10 @@
    <img src="https://github-profile-trophy.vercel.app/?username=souraOP&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
    </a>
 </div>
+
+  <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif" alt="souraOP" height="200" width="200" /></a>
+    <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="souraOP" height="200" width="200" /></a>
+  <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="souraOP" height="200" width="200" /></a>
 
 <div align=center>
    <a href="https://monkeytype.com/profile/soura_OP">
