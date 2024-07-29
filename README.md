@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/sourasish-mondal-20bb10203/" target="_blank" rel="noopener noreferrer">Sourasish Mondal</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 <h2 align="center">A passionate Machine Learning Engineer and a Full Stack Web Developer from India ❤️</h1>
 <a href="https://cloud.appwrite.io/card/64511023125a5b0ebbc4">
-	<img  align=right flex-grow=1 width=350 src="https://leetcard.jacoblin.cool/souraOP?theme=dark&font=Nunito&ext=heatmap" /> 
+	<img  align=right flex-grow=1 width=350 src="https://leetcard.jacoblin.cool/souraOP?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap" />
 </a>
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souraOP&label=Profile%20views&color=0e75b6&style=flat" alt="souraOP" /> </p>
