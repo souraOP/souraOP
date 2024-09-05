@@ -78,7 +78,7 @@
 
 <div align=center>
    <a href="https://github.com/souraOP" target="_blank">
-   <img align=center width=100% src="https://github.com/souraOP/souraOP/blob/e14b2a6c2ffe883018e382aa7942db57e60bc7b3/profile-3d-contrib/profile-night-rainbow.svg" />
+   <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
    </a>
 </div>
 
