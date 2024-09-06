@@ -54,6 +54,7 @@
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-E44C30?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-brown?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Pytorch-purple?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
 <br>
