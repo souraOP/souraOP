@@ -79,7 +79,7 @@
 
 <div align=center>
    <a href="https://github.com/souraOP" target="_blank">
-   <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg"/>
+   <img align=center width=100% src="profile-3d-contrib/profile-night-view.svg"/>
    </a>
 </div>
 
