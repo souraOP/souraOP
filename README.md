@@ -17,6 +17,8 @@
 - ## Workspace Specs:
   ![Laptop](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 
+  
+
 <div align="center">
   <h2> <strong> Actively Learning: </strong></h2>
 
@@ -82,6 +84,10 @@
    <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg"/>
    </a>
 </div>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@souraOP/30-nites-of-code)  
+  ![@souraOP #30NitesOfCode](https://www.codedex.io/api/petStatus?user=souraOP)
 
 
 <p align="center">
