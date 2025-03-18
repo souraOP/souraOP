@@ -89,7 +89,6 @@
   [Check out my progress!](https://www.codedex.io/@souraOP/30-nites-of-code)  
   ![@souraOP #30NitesOfCode](https://www.codedex.io/api/petStatus?user=souraOP)
 
-
 <p align="center">
 
 <img src="asset/borderseperator.gif"> 
