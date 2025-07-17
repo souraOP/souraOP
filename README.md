@@ -62,21 +62,13 @@
 <br>
 
 [![An image of @souraop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souraop)](https://holopin.io/@souraop)
-<div align=center>
-   <a href="https://github.com/souraOP">
-   <img src="https://github-profile-trophy.vercel.app/?username=souraOP&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="zumrudu-anka" width=200% height=100%/>
-   </a>
-</div>
+
 
   <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif" alt="souraOP" height="200" width="200" /></a>
     <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="souraOP" height="200" width="200" /></a>
   <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="souraOP" height="200" width="200" /></a>
 
-<div align=center>
-   <a href="https://monkeytype.com/profile/soura_OP">
-   <img alt="Typing Speed" src="https://github.com/souraOP/souraOP/blob/2fae4e19d48ccc891eeae77bd689a52199651115/asset/moneky.png" />
-   </a>
-</div>
+
 </p>
 
 <div align=center>
@@ -85,32 +77,4 @@
    </a>
 </div>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@souraOP/30-nites-of-code)  
-  ![@souraOP #30NitesOfCode](https://www.codedex.io/api/petStatus?user=souraOP)
 
-<p align="center">
-
-<img src="asset/borderseperator.gif"> 
-
-<h2 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_SOURA_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_SOURA_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sourasish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sourasish-mondal-20bb10203" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100070362341328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourasish mondal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sourahimself/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourahimself" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sourasishmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sourasishmondal" height="30" width="40" /></a>
-<a href="https://leetcode.com/souraOP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souraOP" height="30" width="40" /></a>
-<a href="https://github.com/souraOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="souraOP" height="30" width="40" /></a>
-<a href="https://discord.gg/cqGgpDMgmS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BPPIMT STUDY ZONE" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/oyg8byr7qpki5jx9snoqxed7m?si=49597fd60e6044ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="sourasish" height="30" width="40"/></a>
-<a href="https://www.youtube.com/channel/UCywTSd0-qY13RasRiM-nv4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Fresh Noodles" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sourasishmondal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourasishmondal1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sourasishmondal95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sourasishmondal95" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/soura_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="sourasishmondal95" height="30" width="40" /></a>
-</p>
-
-
------
-
-Last Edited on: 02/07/2024
