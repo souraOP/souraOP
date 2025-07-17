@@ -64,12 +64,6 @@
 [![An image of @souraop's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souraop)](https://holopin.io/@souraop)
 
 
-  <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif" alt="souraOP" height="200" width="200" /></a>
-    <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="souraOP" height="200" width="200" /></a>
-  <a href="https://leetcode.com/souraOP/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="souraOP" height="200" width="200" /></a>
-
-
-</p>
 
 <div align=center>
    <a href="https://github.com/souraOP" target="_blank">
