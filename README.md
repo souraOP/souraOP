@@ -44,6 +44,8 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-E44C30?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-brown?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Pytorch-purple?style=for-the-badge&logo=pytorch&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+![Springboot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white)
 
 
 <br>
